@@ -1,0 +1,17 @@
+> init
+<<<
++ b.txt b.txt
+> add b.txt
+<<<
++ a.txt a.txt
+> add a.txt
+<<<
++ c.txt c.txt
+> add c.txt
+<<<
+E b.txt
+= b.txt b.txt
+E a.txt
+= a.txt a.txt
+E c.txt
+= c.txt c.txt

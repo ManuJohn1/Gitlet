@@ -1,0 +1,7 @@
+> init
+<<<
++ g.txt g.txt
+> add g.txt
+<<<
+E g.txt
+= g.txt g.txt
